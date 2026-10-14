@@ -1,0 +1,17 @@
+{
+  "name": "sabaa",
+  "owner": { "name": "Sabaa · سبعة" },
+  "metadata": {
+    "description": "Arabic plugins from Sabaa (سبعة) for Claude and Cowork."
+  },
+  "plugins": [
+    {
+      "name": "sabaa-cowork",
+      "source": "./sabaa-cowork",
+      "description": "Arabic (Levantine) coach for Claude Cowork, from the course «Claude Cowork من الأول للآخر»: 15 workshop skills, 5 commands (coach, grade, review, practice, next) and a reviewer sub-agent.",
+      "version": "0.1.1",
+      "author": { "name": "Sabaa · سبعة" },
+      "keywords": ["arabic", "cowork", "course", "coach", "rtl"]
+    }
+  ]
+}

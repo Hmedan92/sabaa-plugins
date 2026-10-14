@@ -1,0 +1,15 @@
+{
+  "name": "sabaa-cowork",
+  "version": "0.1.1",
+  "description": "Arabic (Levantine) coach for Claude Cowork, built from the course «Claude Cowork من الأول للآخر». Workshop skills (plan-check-execute, Arabic RTL output, research with sources, email drafts, browser forms, scheduled tasks, Skills and plugins), commands to grade a prompt, review an output, get the next lesson, and start a practice task, and a reviewer sub-agent.",
+  "author": {
+    "name": "Sabaa · سبعة"
+  },
+  "keywords": [
+    "arabic",
+    "cowork",
+    "course",
+    "coach",
+    "rtl"
+  ]
+}
